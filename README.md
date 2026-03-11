@@ -1,6 +1,7 @@
-python practice 
-this repository contains my beginner python project while learning progamming.
-project included:
-car command game
-basic python practice file
-I'm learning python step by step and building small projects to improve my skill.
+# Number guessing game
+this is simple python number guessing game.
+the player has 3 chances to guess the correct number.
+if guess is correct player wins.
+otherwise player loses.
+built while learning python
+
