@@ -20,7 +20,8 @@ start - to start the car
 stop - to stop the car
 quit - to exit
 """)
-    elif command == "quit":
+        
+elif command == "quit":
      break
 else:
     print("sorry i dont understand.")
